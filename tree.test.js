@@ -42,7 +42,7 @@ beforeEach(function() {
   //                          |
   //                          8
   //
-   
+
   let n = new TreeNode(1);
   let n2 = new TreeNode(2);
   let n3 = new TreeNode(3);
